@@ -1,0 +1,7 @@
+incident_id,service,duration,status
+101,API,30,resolved
+102,Database,45,resolved
+103,API,15,open
+104,API,invalid,resolved
+105,Database,20,open
+106,API,10,resolved
